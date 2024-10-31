@@ -1,0 +1,10 @@
+opencv-python
+dlib
+tensorflow
+keras
+spotipy
+vaderSentiment
+SpeechRecognition
+pyaudio
+scikit-learn
+python-vlc
